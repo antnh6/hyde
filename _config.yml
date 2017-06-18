@@ -11,7 +11,7 @@ title:            An Nguyen
 tagline:          'Home'
 description:      'A glimpse into the life of a twenty-two-year-old who is doing her Masters degree at York Uni and moving to Vancouver this October to start working at <a href="https://home.kpmg.com/ca/en/home/about/offices/vancouver-1.html" target="_blank">KPMG</a> full time.'
 url:              http://antnh6.github.io/sister
-baseurl:          /sister/
+baseurl:          sister/
 
 author:
   name:           'An Nguyen'
